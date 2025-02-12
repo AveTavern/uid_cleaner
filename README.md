@@ -19,3 +19,5 @@
 4. Файл logs-{date}-{time}.txt, который лежит там же, где и исполняемый файл
 
 Portable version v1.1: https://drive.google.com/file/d/1VmIDBa13qcl7c2gYPVQ2Ig5HpeWW8AmJ/view?usp=sharing
+
+Важно: скрипт запускается какое-то время. Не удивляйтесь.)

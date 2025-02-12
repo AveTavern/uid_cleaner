@@ -17,3 +17,5 @@
 1-2. Файлы с обновленными данными. Выглядят как "название файла _updated.csv"
 3. Файл со списком удаленных id removed.txt.
 4. Файл logs-{date}-{time}.txt, который лежит там же, где и исполняемый файл
+
+Portable version v1.1: https://drive.google.com/file/d/1VmIDBa13qcl7c2gYPVQ2Ig5HpeWW8AmJ/view?usp=sharing
